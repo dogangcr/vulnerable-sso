@@ -58,3 +58,8 @@ In this below image, common vulnerabilities are explained.
 - [Facebook](http://blog.intothesymmetry.com/2014/04/oauth-2-how-i-have-hacked-facebook.html)
 - [Periscope](https://hackerone.com/reports/110293)
 - [Periscope](https://hackerone.com/reports/215381)
+
+**References**
+
+- [Baeldung](https://www.baeldung.com/sso-spring-security-oauth2)
+- [OAuth RFC](https://tools.ietf.org/html/rfc6749)
