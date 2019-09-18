@@ -2,7 +2,7 @@
  **Single Sign On**
 
 
-Single sign on contain OAuth, Saml, Open ID Connect.
+Single sign on contains OAuth, Saml, Open ID Connect.
 OAuth is used by many companies for authorization and authentication purposes. Some of the applications don’t implement OAuth specifications correctly. 
 
 ![UsageOfOauth](images/UsageOfOauth.png)
